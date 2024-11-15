@@ -1,0 +1,7 @@
+{
+  "name": "vuefirst",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
